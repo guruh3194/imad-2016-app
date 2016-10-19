@@ -24,14 +24,11 @@ a
     color : white;
     font-size: 200%;
     font-weight: bold;
-
-
-    
 }
 div {
     width: 300px;
-    border: 25px solid green;
+    border: 10px white;
     padding: 25px;
-    margin: 25px;
+    margin: 15px;
     background-color:white;
 }
