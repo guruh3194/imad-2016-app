@@ -27,8 +27,8 @@ a
 }
 div {
     width: 300px;
-    border: 10px grey;
+    border: 10px black;
     padding: 25px;
     margin: 15px;
-    background-color:white;
+    background-color:grey;
 }
